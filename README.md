@@ -1,6 +1,8 @@
-# Título del Proyecto
+# Actividad 3 - Login
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Login simple como práctica de clase de TÓPICOS SELECTOS DE TECNOLOGÍAS I_
 ```
-llkjljkjb
+Licenciatura en Tecnologías de la información
+Rafael Alejandro Gaeta Alvarado
+216776033
 ```
